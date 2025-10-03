@@ -1,0 +1,209 @@
+
+{
+  "cafes": 
+[
+  {
+    "id": "1",
+    "name": "Cafe Boulevard",
+    "lat": 26.2184,
+    "lng": 78.1828,
+    "address": "DB Mall Road, Lashkar, Gwalior",
+    "rating": 4.4,
+    "hours": "Mon-Sun: 10AM-10PM",
+    "description": "Trendy cafe with artisan coffee and fresh pastries"
+  },
+  {
+    "id": "2",
+    "name": "Indian Coffee House - Lashkar",
+    "lat": 26.2195,
+    "lng": 78.1799,
+    "address": "Maharaj Bada, Lashkar, Gwalior",
+    "rating": 4.2,
+    "hours": "Mon-Sun: 9AM-9PM",
+    "description": "Historic cafe chain serving South Indian dishes and filter coffee"
+  },
+  {
+    "id": "3",
+    "name": "Bistro 57",
+    "lat": 26.2100,
+    "lng": 78.1910,
+    "address": "City Centre, Gwalior",
+    "rating": 4.3,
+    "hours": "Mon-Sun: 11AM-11PM",
+    "description": "Casual bistro offering snacks, pizza, and cozy ambiance"
+  },
+  {
+    "id": "4",
+    "name": "Barista - Gulmohar",
+    "lat": 26.2065,
+    "lng": 78.1877,
+    "address": "Gulmohar City, Gwalior",
+    "rating": 4.1,
+    "hours": "Mon-Sun: 10AM-11PM",
+    "description": "Famous coffee chain with handcrafted beverages"
+  },
+  {
+    "id": "5",
+    "name": "Hangout Cafe",
+    "lat": 26.2122,
+    "lng": 78.1839,
+    "address": "Phoolbagh, Gwalior",
+    "rating": 4.5,
+    "hours": "Mon-Sun: 12PM-11PM",
+    "description": "Chill place with board games and fast food"
+  },
+  {
+    "id": "6",
+    "name": "Route 66 Coffee",
+    "lat": 26.2096,
+    "lng": 78.1892,
+    "address": "Near DD Mall, Gwalior",
+    "rating": 4.6,
+    "hours": "Mon-Sun: 11AM-11PM",
+    "description": "American-style cafe with burgers and a gaming lounge"
+  },
+  {
+    "id": "7",
+    "name": "Cafe Kahani",
+    "lat": 26.2150,
+    "lng": 78.1753,
+    "address": "Thatipur, Gwalior",
+    "rating": 4.7,
+    "hours": "Mon-Sun: 10AM-10PM",
+    "description": "Quiet cafe for reading, writing, and studying"
+  },
+  {
+    "id": "8",
+    "name": "The Bullet Cafe",
+    "lat": 26.2131,
+    "lng": 78.1801,
+    "address": "Maharajpura Road, Gwalior",
+    "rating": 4.3,
+    "hours": "Mon-Sun: 12PM-12AM",
+    "description": "Motorcycle-themed cafe serving shakes and fast food"
+  },
+  {
+    "id": "9",
+    "name": "Bean & Leaf Cafe",
+    "lat": 26.2202,
+    "lng": 78.1815,
+    "address": "Hazira Chowk, Gwalior",
+    "rating": 4.4,
+    "hours": "Mon-Sun: 9AM-9PM",
+    "description": "Modern coffee shop with organic blends and snacks"
+  },
+  {
+    "id": "10",
+    "name": "The Coffee Studio",
+    "lat": 26.2240,
+    "lng": 78.1830,
+    "address": "Jayendra Ganj, Gwalior",
+    "rating": 4.5,
+    "hours": "Mon-Sun: 10AM-11PM",
+    "description": "Cafe with open-mic nights, continental snacks and brews"
+  },
+  {
+    "id": "11",
+    "name": "Mocha Magic",
+    "lat": 26.2072,
+    "lng": 78.1908,
+    "address": "City Centre Mall, Gwalior",
+    "rating": 4.2,
+    "hours": "Mon-Sun: 11AM-10PM",
+    "description": "Colorful cafe specializing in coffee-based desserts"
+  },
+  {
+    "id": "12",
+    "name": "Coffee Culture",
+    "lat": 26.2166,
+    "lng": 78.1847,
+    "address": "Thatipur Main Road, Gwalior",
+    "rating": 4.3,
+    "hours": "Mon-Sun: 10AM-11PM",
+    "description": "Youth-centric cafe serving fast bites and cold coffees"
+  },
+  {
+    "id": "13",
+    "name": "Cuppa Joe",
+    "lat": 26.2111,
+    "lng": 78.1888,
+    "address": "Vinay Nagar, Gwalior",
+    "rating": 4.6,
+    "hours": "Mon-Sun: 8AM-10PM",
+    "description": "Warm hangout space with hand-brewed coffees"
+  },
+  {
+    "id": "14",
+    "name": "Bakers & Brews",
+    "lat": 26.2189,
+    "lng": 78.1775,
+    "address": "Gole Ka Mandir, Gwalior",
+    "rating": 4.4,
+    "hours": "Mon-Sun: 9AM-9PM",
+    "description": "Bakery cafe with cakes, pastries, and cappuccinos"
+  },
+  {
+    "id": "15",
+    "name": "Sip & Snack Cafe",
+    "lat": 26.2220,
+    "lng": 78.1769,
+    "address": "Morena Link Road, Gwalior",
+    "rating": 4.1,
+    "hours": "Mon-Sun: 10AM-10PM",
+    "description": "Small family-run cafe serving sandwiches and coffee"
+  },
+  {
+    "id": "16",
+    "name": "Cafe Aroma",
+    "lat": 26.2085,
+    "lng": 78.1855,
+    "address": "Lashkar, Gwalior",
+    "rating": 4.7,
+    "hours": "Mon-Sun: 11AM-11PM",
+    "description": "Popular cafe with multi-cuisine menu and premium brews"
+  },
+  {
+    "id": "17",
+    "name": "Perk & Chill",
+    "lat": 26.2147,
+    "lng": 78.1789,
+    "address": "Thatipur Square, Gwalior",
+    "rating": 4.5,
+    "hours": "Mon-Sun: 12PM-11PM",
+    "description": "Trendy student hangout cafe with quick snacks"
+  },
+  {
+    "id": "18",
+    "name": "Café De Gwalior",
+    "lat": 26.2215,
+    "lng": 78.1821,
+    "address": "DB Mall Complex, Gwalior",
+    "rating": 4.6,
+    "hours": "Mon-Sun: 11AM-11PM",
+    "description": "Upscale cafe with fusion food and premium coffee"
+  },
+  {
+    "id": "19",
+    "name": "Coffee n More",
+    "lat": 26.2099,
+    "lng": 78.1864,
+    "address": "Jiwaji Chowk, Gwalior",
+    "rating": 4.3,
+    "hours": "Mon-Sun: 10AM-10PM",
+    "description": "Compact cafe with shakes, ice creams, and hot brews"
+  },
+  {
+    "id": "20",
+    "name": "Urban Beans Cafe",
+    "lat": 26.2172,
+    "lng": 78.1806,
+    "address": "Thatipur Market, Gwalior",
+    "rating": 4.4,
+    "hours": "Mon-Sun: 9AM-10PM",
+    "description": "Modern cafe with continental snacks and handcrafted coffee"
+  }
+]
+
+
+
+}
