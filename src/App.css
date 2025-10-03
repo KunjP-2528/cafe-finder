@@ -512,7 +512,7 @@ body {
   transform: translateX(5px) scale(1.2);
 }
 
-/* Map Container Styles */
+
 .map-container {
   background: rgba(255, 255, 255, 0.95);
   backdrop-filter: blur(10px);
@@ -554,7 +554,7 @@ body {
   border-radius: var(--border-radius);
 }
 
-/* Enhanced Leaflet Marker Styles */
+
 .user-location-marker {
   background: none;
   border: none;
@@ -613,7 +613,7 @@ body {
   gap: 0.5rem;
 }
 
-/* Responsive Design with Enhanced Animations */
+
 @media (max-width: 1024px) {
   .content-wrapper {
     grid-template-columns: 350px 1fr;
@@ -680,7 +680,6 @@ body {
   }
 }
 
-/* Dark mode support */
 @media (prefers-color-scheme: dark) {
   :root {
     --dark-text: #f0f0f0;
@@ -708,7 +707,6 @@ body {
   }
 }
 
-/* Print styles */
 @media print {
   .app-header {
     background: #8B4513 !important;
@@ -722,7 +720,6 @@ body {
   }
 }
 
-/* Reduced motion support */
 @media (prefers-reduced-motion: reduce) {
   * {
     animation-duration: 0.01ms !important;
@@ -731,7 +728,7 @@ body {
   }
 }
 
-/* High contrast support */
+
 @media (prefers-contrast: high) {
   :root {
     --primary-brown: #000000;

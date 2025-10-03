@@ -15,7 +15,7 @@ const CafeList: React.FC<CafeListProps> = ({
   onCafeSelect, 
   userPosition 
 }) => {
-  // Calculate distance between two points using Haversine formula
+ 
   const calculateDistance = (cafeLat: number, cafeLng: number): number => {
     const R = 6371; // Earth's radius in km
     const dLat = (cafeLat - userPosition.lat) * Math.PI / 180;
